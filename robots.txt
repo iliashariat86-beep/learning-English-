@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://github.com/iliashariat86-beep/learning-English-.git/sitemap.xml
